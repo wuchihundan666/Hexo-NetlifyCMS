@@ -5,11 +5,18 @@
 # Site
 title: 硅灰石粉-硅灰石-厂家直销电话13972761136
 subtitle: ''
-description: ''
-keywords:
+description: '硅灰石、硅灰石粉生产厂家超低价格供应'
+keywords:硅灰石,硅灰石粉
 author:
 language: zh-CN
 timezone: ''
+
+
+menu:
+    home: / ||主页
+    
+    
+   
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
